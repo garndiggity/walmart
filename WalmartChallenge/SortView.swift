@@ -96,4 +96,3 @@ class SortView: UIView, UITableViewDataSource, UITableViewDelegate {
 		updateViewSize()
 	}
 }
-
